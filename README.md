@@ -1,2 +1,2 @@
 - Salut je suis INUGYN
-- je codasse en Python
+- je codasse en LODIPYTHON
