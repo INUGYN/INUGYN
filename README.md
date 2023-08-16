@@ -1,2 +1,0 @@
-- Salut je suis INUGYN
-- je codasse en LODIPYTHON
